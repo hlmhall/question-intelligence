@@ -1,0 +1,21 @@
+id,title,topic,date
+L001,Introduction to Python,Programming Basics,2024-01-10
+L002,Data Types and Variables,Programming Basics,2024-01-12
+L003,Control Flow,Programming Basics,2024-01-15
+L004,Functions and Modules,Programming Basics,2024-01-17
+L005,Working with Data Files,Data Handling,2024-01-19
+L006,Data Analysis with pandas,Data Analysis,2024-01-22
+L007,Data Analysis with pandas,,2024-01-22
+L008,Exploratory Data Analysis,Data Analysis,2024-01-24
+L009,Data Visualization,Visualization,2024-01-26
+L010,Introduction to Machine Learning,Machine Learning,2024-01-29
+L011,Supervised Learning,Machine Learning,2024-01-31
+L012,Unsupervised Learning,Machine Learning,2024-02-02
+L013,Model Evaluation,Machine Learning,2024-02-05
+L014,Text Data and NLP,Natural Language Processing,2024-02-07
+L015,Clustering Techniques,Machine Learning,2024-02-09
+L016,Privacy and Ethics in Data Science,Ethics,2024-02-12
+L017,Streamlit Dashboards,Visualization,2024-02-14
+L018,Project Review and Reflection,,2024-02-16
+L019,Introduction to Python,Programming Basics,2024-01-10
+L020,Advanced pandas,Data Analysis,2024-02-19

@@ -1,0 +1,81 @@
+id,user_id,lesson_id,text,timestamp,label
+Q001,U001,L01,What is the difference between supervised and unsupervised learning?,2024-03-01 09:15:00,concept
+Q002,U002,L01,Can you explain what a feature is in machine learning?,2024-03-01 09:17:23,clarification
+Q003,U003,L01,How do I choose the right algorithm?,2024-03-01 09:18:45,
+Q004,U004,L01,What is the difference between supervised and unsupervised learning?,2024-03-01 09:19:10,concept
+Q005,U005,L02,Why do we split data into train and test sets?,2024-03-02 10:05:00,concept
+Q006,U006,L02,What happens if my data has missing values?,2024-03-02 10:07:12,clarification
+Q007,U007,L02,How do I handle categorical variables?,2024-03-02 10:09:30,clarification
+Q008,U008,L02,What is overfitting?,2024-03-02 10:10:55,concept
+Q009,U009,L02,How can I prevent overfitting?,2024-03-02 10:12:00,application
+Q010,U010,L03,What is cross-validation?,2024-03-03 11:00:00,concept
+Q011,U011,L03,How many folds should I use in cross-validation?,2024-03-03 11:02:15,
+Q012,U012,L03,Why do we use cross-validation?,2024-03-03 11:03:40,clarification
+Q013,U013,L03,What is the difference between accuracy and precision?,2024-03-03 11:05:00,concept
+Q014,U014,L03,Can you give an example of recall?,2024-03-03 11:06:20,clarification
+Q015,U015,L04,How do I interpret a confusion matrix?,2024-03-04 09:10:00,clarification
+Q016,U016,L04,What does a high false positive rate mean?,2024-03-04 09:12:30,concept
+Q017,U017,L04,How do I improve my model's recall?,2024-03-04 09:14:45,application
+Q018,U018,L04,What is ROC AUC?,2024-03-04 09:16:00,concept
+Q019,U019,L04,Why is ROC curve important?,2024-03-04 09:17:20,
+Q020,U020,L05,What is feature engineering?,2024-03-05 10:00:00,concept
+Q021,U021,L05,How do I create new features?,2024-03-05 10:02:10,application
+Q022,U022,L05,What is one-hot encoding?,2024-03-05 10:03:30,concept
+Q023,U023,L05,When should I use normalization?,2024-03-05 10:05:00,application
+Q024,U024,L05,What is the difference between normalization and standardization?,2024-03-05 10:06:20,concept
+Q025,U025,L06,How do I handle outliers?,2024-03-06 09:15:00,application
+Q026,U026,L06,What is a boxplot?,2024-03-06 09:17:10,clarification
+Q027,U027,L06,Why do we use log transformation?,2024-03-06 09:18:30,clarification
+Q028,U028,L06,What is the impact of outliers on linear regression?,2024-03-06 09:20:00,concept
+Q029,U029,L06,How do I detect outliers?,2024-03-06 09:21:15,application
+Q030,U030,L07,What is regularization?,2024-03-07 10:00:00,concept
+Q031,U031,L07,Can you explain L1 and L2 regularization?,2024-03-07 10:02:10,clarification
+Q032,U032,L07,When should I use regularization?,2024-03-07 10:03:30,application
+Q033,U033,L07,What is the penalty term in regularization?,2024-03-07 10:05:00,concept
+Q034,U034,L07,How does regularization prevent overfitting?,2024-03-07 10:06:20,concept
+Q035,U035,L08,What is clustering?,2024-03-08 09:10:00,concept
+Q036,U036,L08,How does KMeans clustering work?,2024-03-08 09:12:30,clarification
+Q037,U037,L08,What is the elbow method?,2024-03-08 09:14:45,concept
+Q038,U038,L08,How do I choose the number of clusters?,2024-03-08 09:16:00,application
+Q039,U039,L08,What is hierarchical clustering?,2024-03-08 09:17:20,concept
+Q040,U040,L09,What is dimensionality reduction?,2024-03-09 10:00:00,concept
+Q041,U041,L09,Why do we use PCA?,2024-03-09 10:02:10,clarification
+Q042,U042,L09,How does PCA work?,2024-03-09 10:03:30,concept
+Q043,U043,L09,What is explained variance?,2024-03-09 10:05:00,clarification
+Q044,U044,L09,How many components should I keep in PCA?,2024-03-09 10:06:20,
+Q045,U045,L10,What is a decision tree?,2024-03-10 09:15:00,concept
+Q046,U046,L10,How does a decision tree split data?,2024-03-10 09:17:10,clarification
+Q047,U047,L10,What is information gain?,2024-03-10 09:18:30,concept
+Q048,U048,L10,How do I prevent overfitting in decision trees?,2024-03-10 09:20:00,application
+Q049,U049,L10,What is pruning?,2024-03-10 09:21:15,concept
+Q050,U050,L01,,2024-03-01 09:20:00,clarification
+Q051,U051,L02,What is the difference between supervised and unsupervised learning?,03/01/2024 09:15,concept
+Q052,U052,L03,How do I interpret a confusion matrix?,2024/03/04 09:10,clarification
+Q053,U053,L04,What is ROC AUC?,2024-03-04T09:16:00,concept
+Q054,U054,L05,What is one-hot encoding?,2024-03-05 10:03:30,concept
+Q055,U055,L06,How do I detect outliers?,2024-03-06 09:21:15,application
+Q056,U056,L07,How does regularization prevent overfitting?,2024-03-07 10:06:20,concept
+Q057,U057,L08,What is hierarchical clustering?,2024-03-08 09:17:20,concept
+Q058,U058,L09,How many components should I keep in PCA?,2024-03-09 10:06:20,
+Q059,U059,L10,What is pruning?,2024-03-10 09:21:15,concept
+Q060,U060,L01,What is the difference between supervised and unsupervised learning?,2024-03-01 09:15:00,concept
+Q061,U061,L02,Why do we split data into train and test sets?,2024-03-02 10:05:00,concept
+Q062,U062,L03,What is cross-validation?,2024-03-03 11:00:00,concept
+Q063,U063,L04,What does a high false positive rate mean?,2024-03-04 09:12:30,concept
+Q064,U064,L05,What is feature engineering?,2024-03-05 10:00:00,concept
+Q065,U065,L06,What is a boxplot?,2024-03-06 09:17:10,clarification
+Q066,U066,L07,Can you explain L1 and L2 regularization?,2024-03-07 10:02:10,clarification
+Q067,U067,L08,How does KMeans clustering work?,2024-03-08 09:12:30,clarification
+Q068,U068,L09,Why do we use PCA?,2024-03-09 10:02:10,clarification
+Q069,U069,L10,How does a decision tree split data?,2024-03-10 09:17:10,clarification
+Q070,U070,L01,How do I choose the right algorithm?,2024-03-01 09:18:45,
+Q071,U071,L02,What happens if my data has missing values?,2024-03-02 10:07:12,clarification
+Q072,U072,L03,How many folds should I use in cross-validation?,2024-03-03 11:02:15,
+Q073,U073,L04,Why is ROC curve important?,2024-03-04 09:17:20,
+Q074,U074,L05,When should I use normalization?,2024-03-05 10:05:00,application
+Q075,U075,L06,Why do we use log transformation?,2024-03-06 09:18:30,clarification
+Q076,U076,L07,When should I use regularization?,2024-03-07 10:03:30,application
+Q077,U077,L08,What is the elbow method?,2024-03-08 09:14:45,concept
+Q078,U078,L09,What is explained variance?,2024-03-09 10:05:00,clarification
+Q079,U079,L10,What is information gain?,2024-03-10 09:18:30,concept
+Q080,U080,L01,Can you explain what a feature is in machine learning?,2024-03-01 09:17:23,clarification

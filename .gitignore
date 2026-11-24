@@ -1,0 +1,117 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Python virtualenv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Data outputs
+data/processed/
+models/
+*.pkl
+*.joblib
+*.h5
+*.db
+*.sqlite3
+*.log
+
+# Feedback store
+feedback_store.json
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyCharm
+.idea/
+
+# Misc
+*.bak
+*.swp
+*.swo
+*~
+
+# Ignore test artifacts
+tests/__pycache__/
+tests/*.pyc
+
+# Ignore notebook output
+notebooks/*.nbconvert.ipynb
+
+# Ignore milestone and reflection artifacts
+*.pdf
+*.csv
+*.xlsx
+*.xls
+
+# Ignore any secret or credential files accidentally added
+secrets.*
+credentials.*
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+tmp/
+temp/
+*.tmp
